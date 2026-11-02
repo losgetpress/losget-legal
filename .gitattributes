@@ -1,0 +1,3 @@
+# Stage 9.13 (Scan This Food): its public pages are deployed byte for byte as
+# generated (LF), so the checkout keeps them LF on every system.
+scan-this-food/** text eol=lf
